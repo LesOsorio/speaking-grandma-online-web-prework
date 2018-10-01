@@ -7,7 +7,6 @@ describe '#speak_to_grandma' do
     puts 'Hi!' == 'HUH?! SPEAK UP, SONNY!'
   elsif == 'responds with NO, NOT SINCE 1938! when she can hear you'
     puts 'WHAT DID YOU EAT TODAY?' == "NO, NOT SINCE 1938!"
-  elsif == 'responds with NO, NOT SINCE 1938! for a second time' 
+  elsif == 'responds with NO, NOT SINCE 1938! for a second time'
     puts 'WHAT?' == "NO, NOT SINCE 1938!"
   end
-
